@@ -49,7 +49,7 @@ um projeto em React.js para atuar como interface do usuário.
 
 `git clone https://github.com/alessandradocouto/react-js-dotnet-api.git`
 
-### Entre na pasta do projeto e instalar pacotes
+### Entre na pasta do projeto e instale os pacotes
 
 `cd react-js-dotnet-api`
 
