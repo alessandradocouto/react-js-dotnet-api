@@ -8,7 +8,7 @@ um projeto em React.js para atuar como interface do usuário.
 
 
 ## O que eu aprendi
-- Criar, Remover, Atualizar, Adicionar, Mostrar os livros;
+- Remover, Atualizar, Adicionar, Mostrar os livros cadastrados;
 - Lógica de paginação de APIs;
 - Como consumir uma API desenvolvida em ASP.NET Core 6 com React JS
 - Conceitos fundamentais de React JS e SPA's (Single Page Applications)
