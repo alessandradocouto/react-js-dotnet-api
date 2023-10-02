@@ -51,8 +51,6 @@ um projeto em React.js para atuar como interface do usuário.
 
 ### Entre na pasta do projeto e instale os pacotes
 
-`cd react-js-dotnet-api`
-
 `npm install`
 
 ### Execute o projeto 
